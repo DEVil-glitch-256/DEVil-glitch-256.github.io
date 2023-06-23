@@ -14,3 +14,5 @@ fclose($f);
 <img src="img.jpg">
 </body>
 </html>
+
+
